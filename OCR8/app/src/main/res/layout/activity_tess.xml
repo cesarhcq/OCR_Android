@@ -1,0 +1,59 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FotoFrameWork"
+    android:orientation="vertical">
+
+        <SurfaceView
+            android:id="@+id/camera_frame"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+        <engenoid.tessocrtest.Core.ExtraViews.FocusBoxView
+            android:id="@+id/focus_box"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="false"
+            android:layout_gravity="center" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="@string/btn_recomecar"
+            android:id="@+id/btnRecomecar"
+            android:layout_gravity="right|top"
+            android:layout_weight="1"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="15dp" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:text="@string/btn_enviar"
+            android:id="@+id/btnEnviar"
+            android:layout_gravity="top"
+            android:layout_weight="1"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/focus_button"
+            android:background="@drawable/focus_layout"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_marginLeft="120dp"
+            android:layout_marginBottom="10dp" />
+
+        <Button
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:id="@+id/shutter_button"
+            android:background="@drawable/shutter_layout"
+            android:layout_gravity="bottom|center_horizontal" />
+
+</FrameLayout>

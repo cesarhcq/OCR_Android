@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/normal_glow.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/normal_glow.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_touch.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_touch.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_normal_glow.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_normal_glow.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/focus_normal.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/focus_normal.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_normal_glow.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_normal_glow.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/focus_touch.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/focus_touch.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_touch_glow.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_touch_glow.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_touch_glow.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_touch_glow.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_normal.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_normal.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/focus_normal.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/focus_normal.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/focus_touch.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/focus_touch.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_touch.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_touch.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/normal_glow.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable/normal_glow.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable/scan_normal.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable/scan_normal.png"
+    }
+]

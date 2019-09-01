@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="focus_box_corner">#ffffffff</color>
+    <color name="focus_box_frame">#ffd6d6d6</color>
+    <color name="focus_box_mask">#60000000</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="status_top_text_background">#ffffffff</color>
+    <color name="translation_text">#00ccff</color>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id"><enum name="any" value="-1"/><enum name="back" value="99"/><enum name="front" value="98"/></attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Projeto hubz</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_executar">Executar</string>
+    <string name="btn_recomecar">Recomeçar</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="image_dialog_description">Image Preview</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_excluir">Excluir</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_nome_email">Nome / Email</string>
+    <string name="lbl_salvar">Salvar</string>
+    <string name="txt_nome">Nome</string>
+    <style name="AppTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

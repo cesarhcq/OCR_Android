@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/shutter_layout.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable-mdpi/shutter_layout.xml"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/focus_layout.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable-mdpi/focus_layout.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/focus_layout.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable-mdpi/focus_layout.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/shutter_layout.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable-mdpi/shutter_layout.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

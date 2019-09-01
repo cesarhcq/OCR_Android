@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/menu/menu_contato.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/menu/menu_contato.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/menu/menu_contato.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/menu/menu_contato.xml"
+    }
+]

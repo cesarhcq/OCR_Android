@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/image_dialog.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/layout/image_dialog.xml"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/activity_tess.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/layout/activity_tess.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/cadastro_usuario.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/layout/cadastro_usuario.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/image_dialog.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/layout/image_dialog.xml"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/activity_tess.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/layout/activity_tess.xml"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/layout/cadastro_usuario.xml",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/layout/cadastro_usuario.xml"
+    }
+]

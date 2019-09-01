@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/seg_traineddata",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/raw/seg_traineddata"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/enm_traineddata",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/raw/enm_traineddata"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/equ_traineddata",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/raw/equ_traineddata"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/seg.traineddata",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/raw/seg.traineddata"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/eng_traineddata",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/raw/eng_traineddata"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/seg_traineddata",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/raw/seg_traineddata"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/enm_traineddata",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/raw/enm_traineddata"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/eng_traineddata",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/raw/eng_traineddata"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/equ_traineddata",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/raw/equ_traineddata"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/raw/seg.traineddata",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/raw/seg.traineddata"
+    }
+]

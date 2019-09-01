@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scan_normal_glow.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable-hdpi/scan_normal_glow.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scan_normal_glow.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable-hdpi/scan_normal_glow.png"
+    },
+    {
+        "merged": "/home/alantavares/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/alantavares/AndroidStudioProjects/OCR8/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/cesar/AndroidStudioProjects/OCR8/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/cesar/AndroidStudioProjects/OCR8/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]

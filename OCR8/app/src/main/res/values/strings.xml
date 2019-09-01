@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projeto hubz</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="image_dialog_description">Image Preview</string>
+
+    <string name="txt_nome">Nome</string>
+    <string name="lbl_nome">Nome</string>
+    <string name="lbl_email">Email</string>
+    <string name="lbl_nome_email">Nome / Email</string>
+
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_executar">Executar</string>
+
+    <string name="lbl_salvar">Salvar</string>
+    <string name="lbl_excluir">Excluir</string>
+
+    <string name="btn_enviar">Enviar</string>
+    <string name="btn_recomecar">Recomeçar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+
+</resources>
